@@ -1,0 +1,9 @@
+*{
+    background-color: blueviolet;
+}
+.header{
+    background-color:indigo;
+    text-align:left;
+    height:10px;
+    padding:10px;
+}
